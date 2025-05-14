@@ -1,6 +1,6 @@
 To use, 
 ```
-wget https://github.com/Skj0nes-2/nextjs-template/releases/download/1.0.0/make.sh
+wget -q https://github.com/Skj0nes-2/nextjs-template/releases/download/1.0.0/make.sh
 ```
 Then,
 ```
